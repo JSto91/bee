@@ -1,6 +1,6 @@
 ---
 description: This section provides a checklist of steps for running a reliable and secure node.
-image: /img/logo/bee_logo.png
+image: /img/Banner/banner_bee_security_101.png
 keywords:
 - nodes
 - reverse proxy
@@ -10,6 +10,8 @@ keywords:
 - SSH
 ---
 # Security 101
+
+![Bee Node Security 101](/img/Banner/banner_bee_security_101.png)
 
 This section provides a checklist of steps for running a reliable and secure node.
 
