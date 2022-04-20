@@ -1,6 +1,6 @@
 # A Framework For Building IOTA Nodes, Clients, and Applications in Rust
 
-![Bee Node](/img/Banner/banner_bee.png)
+![Bee Node](/documentation/static/img/Banner/banner_bee.png)
 
 [![Discord](https://img.shields.io/badge/Discord-9cf.svg?logo=discord "Discord")](https://discord.iota.org/)
 [![StackExchange](https://img.shields.io/badge/StackExchange-9cf.svg?logo=stackexchange "StackExchange")](https://iota.stackexchange.com/)
